@@ -1,7 +1,7 @@
-FROM jepthoniq/jepthon:slim-buster
+FROM dADXMODd/jepthon:slim-buster
 
 #clonning repo 
-RUN git clone https://github.com/jepthoniq/jepthon.git /root/jepthon
+RUN git clone https://github.com/dADXMODd/Sourcemody.git /root/jepthon
 #working directory 
 WORKDIR /root/jepthon
 
